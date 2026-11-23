@@ -23,7 +23,7 @@ A small home server on an old Asus Eee PC. This is a learning project about Linu
 
 ### 2. Networking
 - Got a temporary connection through USB tethering 
-- Installed the missing Wi-Fi service:
+- Installed the missing Wi-Fi service
 - Configured Wi-Fi with netplan (`/etc/netplan/*.yaml`, permissions `600`):
   ```yaml
   network:
